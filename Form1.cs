@@ -59,7 +59,11 @@ namespace FakeMail
 
         private void BtnDelAttachment_Click(object sender, EventArgs e)
         {
-            listBoxAttachements.Items.Remove(listBoxAttachements.SelectedItem);
+            if (listBoxAttachements.Items.Count > 0)
+            {
+                listBoxAttachements.Items.Remove(listBoxAttachements.SelectedItem);
+            }
+            
         }
     }
 }

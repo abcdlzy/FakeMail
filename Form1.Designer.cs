@@ -47,7 +47,6 @@
             this.label8 = new System.Windows.Forms.Label();
             this.btnAddAttachment = new System.Windows.Forms.Button();
             this.btnDelAttachment = new System.Windows.Forms.Button();
-            this.linkLabel1 = new System.Windows.Forms.LinkLabel();
             this.SuspendLayout();
             // 
             // tbSMTPIP
@@ -218,22 +217,11 @@
             this.btnDelAttachment.UseVisualStyleBackColor = true;
             this.btnDelAttachment.Click += new System.EventHandler(this.BtnDelAttachment_Click);
             // 
-            // linkLabel1
-            // 
-            this.linkLabel1.AutoSize = true;
-            this.linkLabel1.Location = new System.Drawing.Point(748, 16);
-            this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(110, 25);
-            this.linkLabel1.TabIndex = 19;
-            this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "linkLabel1";
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1436, 756);
-            this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.btnDelAttachment);
             this.Controls.Add(this.btnAddAttachment);
             this.Controls.Add(this.label8);
@@ -254,7 +242,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.tbSMTPIP);
             this.Name = "Form1";
-            this.Text = "伪造邮件发送器";
+            this.Text = "伪造邮件发送器  https://github.com/abcdlzy/FakeMail ";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -281,7 +269,6 @@
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Button btnAddAttachment;
         private System.Windows.Forms.Button btnDelAttachment;
-        private System.Windows.Forms.LinkLabel linkLabel1;
     }
 }
 
