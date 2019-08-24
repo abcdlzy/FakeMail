@@ -1,0 +1,10 @@
+C:\Users\username\source\repos\FakeMail\FakeMail\obj\Debug\FakeMail.csprojAssemblyReference.cache
+C:\Users\username\source\repos\FakeMail\FakeMail\obj\Debug\FakeMail.Form1.resources
+C:\Users\username\source\repos\FakeMail\FakeMail\obj\Debug\FakeMail.Properties.Resources.resources
+C:\Users\username\source\repos\FakeMail\FakeMail\obj\Debug\FakeMail.csproj.GenerateResource.cache
+C:\Users\username\source\repos\FakeMail\FakeMail\obj\Debug\FakeMail.csproj.CoreCompileInputs.cache
+C:\Users\username\source\repos\FakeMail\FakeMail\bin\Debug\FakeMail.exe.config
+C:\Users\username\source\repos\FakeMail\FakeMail\bin\Debug\FakeMail.exe
+C:\Users\username\source\repos\FakeMail\FakeMail\bin\Debug\FakeMail.pdb
+C:\Users\username\source\repos\FakeMail\FakeMail\obj\Debug\FakeMail.exe
+C:\Users\username\source\repos\FakeMail\FakeMail\obj\Debug\FakeMail.pdb
